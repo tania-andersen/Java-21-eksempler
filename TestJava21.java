@@ -1,6 +1,7 @@
 /*
 	Test af Java 21-faciliteter til Version2-artikel https://www.version2.dk/node/6989612 
-	Testet med build 26. Kompiler & kør med flag:
+	Testet med build 26: https://jdk.java.net/21/ 
+ 	Kompiler & kør med flag:
 	
 	./java -version
 	./java --source 21 --enable-preview TestJava21.java
